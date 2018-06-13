@@ -6,7 +6,7 @@ Soundboard is an Ionic Android/IOS soundboard app that plays the characteristic 
 <h2 id="screenshots">Screenshots</h2>
 
 ![](assets/screenshots/sound_a.png)
-![](assets/screenshots/sound_b.png)
+
 
 
 <h2 id="development">Development</h2>
